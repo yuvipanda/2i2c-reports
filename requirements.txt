@@ -1,0 +1,5 @@
+git+https://github.com/2i2c-org/sphinx-2i2c-theme
+myst-nb
+linkify-it-py
+sphinx-design
+sphinx-togglebutton
